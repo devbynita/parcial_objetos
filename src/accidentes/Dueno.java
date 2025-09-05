@@ -2,6 +2,7 @@ package accidentes;
 
 import java.util.ArrayList;
 
+//Clase Dueno
 public class Dueno {
     private long cedula;
     private String nombre;
