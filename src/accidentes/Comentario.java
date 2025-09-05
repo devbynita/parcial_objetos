@@ -2,6 +2,7 @@ package accidentes;
 
 import java.util.Date;
 
+//Clase Comentario
 public class Comentario {
     private long id;
     private String descripcion;

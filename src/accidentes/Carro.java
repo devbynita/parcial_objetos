@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Objects;
 
+//Clase Carro
 public class Carro {
     private String placa;
     private String modelo;

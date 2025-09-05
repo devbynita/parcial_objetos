@@ -2,6 +2,7 @@ package accidentes;
 
 import java.util.Date;
 
+//Clase Incidente
 public class Incidente {
     private long codigo;
     private String tipoIncidente;
